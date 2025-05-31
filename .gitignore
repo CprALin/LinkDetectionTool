@@ -42,3 +42,11 @@ build/
 .npm/
 
 # Output
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+# VS Code settings
+.vscode/
